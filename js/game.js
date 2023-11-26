@@ -26,7 +26,7 @@ var gap = 90;
 document.addEventListener("touchend", moveUp);
 
 function moveUp() {
- yPos -= 25;
+ yPos -= 35;
  fly.play();
 }
 
